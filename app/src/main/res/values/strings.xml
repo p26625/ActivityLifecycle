@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ActivityLifecycle</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="second_view_text">Text 1st to 2nd Activity</string>
+    <string name="button_title">Go To 2nd Activity</string>
+    <string name="back_button">Go To 1st Activity</string>
+    <string name="text2">Text 2nd to 1st Activity</string>
+</resources>
